@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+span{
+  border-bottom: 3px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+button{
+  margin: 10px;
+  line-height: 30px;
+  font-weight: bold;
+  background-color: #fff;
+}
